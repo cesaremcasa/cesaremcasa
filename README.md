@@ -1,6 +1,6 @@
 # Cesar Augusto
 
-**AI Systems Engineer** — Specializing in Agentic AI and autonomous orchestration systems. Not demos — real systems.
+**AI Systems Engineer.** Agentic AI and autonomous orchestration systems. Not demos, real systems.
 
 ---
 
@@ -86,9 +86,9 @@ I architect and deploy AI systems with emphasis on:
 
 ## Education
 
-**Bachelor of Computer Science** — Universidade Virtual do Estado de São Paulo (UNIVESP), 2018
+**Bachelor of Computer Science.** Universidade Virtual do Estado de São Paulo (UNIVESP), 2018
 
-**Bachelor of Advertising & Marketing** — Pontifícia Universidade Católica de São Paulo (PUC-SP), 2014
+**Bachelor of Advertising and Marketing.** Pontifícia Universidade Católica de São Paulo (PUC-SP), 2014
 
 ---
 
@@ -104,7 +104,7 @@ Portuguese (Native) • English (Fluent) • Spanish (Advanced) • French (Adva
 
 **Email:** cesardonahill3@gmail.com
 
-**LinkedIn:** (https://www.linkedin.com/in/cesar-augusto-22943a351/)
+**LinkedIn:** [cesar-augusto](https://www.linkedin.com/in/cesar-augusto-22943a351/)
 
 ---
 
