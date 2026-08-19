@@ -1,6 +1,6 @@
 # Cesar Augusto
 
-**AI Systems Engineer.** Agentic AI and autonomous orchestration systems. Not demos, real systems.
+**AI/ML Systems Engineer.** I build, test, and operate AI/ML systems with reproducible releases and documented limitations.
 
 ---
 
@@ -8,49 +8,36 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API%20Framework-009688?logo=fastapi&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Production%20Pipelines-orange)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-red)
-![LangChain](https://img.shields.io/badge/LangChain-Agentic%20Workflows-blue)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-GCP-4285F4?logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-ML%20Services-0078D4?logo=microsoftazure&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Orchestration-purple)
-![Logging](https://img.shields.io/badge/Logging-Structured%20JSON-black)
-![Architecture](https://img.shields.io/badge/Architecture-Modular-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-Applications-3178C6?logo=typescript&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20Retrieval-Pipelines-orange)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Reproducible%20Releases-2088FF?logo=githubactions&logoColor=white)
+![Structured logging](https://img.shields.io/badge/Logging-Structured%20JSON-black)
 
 ---
 
 ## Engineering Focus
 
-I architect and deploy AI systems with emphasis on:
+I build, test, and operate AI/ML systems with emphasis on:
 
-**Agentic AI & LLM Systems:**
-- Autonomous and multi-agent systems
-- RAG (Retrieval-Augmented Generation) architecture
+**AI/ML Systems:**
+- RAG (Retrieval-Augmented Generation) and retrieval workflows
 - LLM orchestration and tool calling
-- Prompt engineering and transformer architectures
-- LangChain agents, chains, and tool integration
-- Model Context Protocol (MCP)
-- Vector search (Pinecone, AlloyDB Vector)
 
-**Cloud Platforms & MLOps:**
-- Google Cloud Platform: Compute Engine, Cloud Run, AlloyDB, BigQuery, Gemini Ecosystem
-- Azure Machine Learning: Model deployment, endpoints, ML workflow operations
-- Serverless pipelines and infrastructure automation
-- VPC, IAM, and cloud security patterns
-
-**Data & Analytics Engineering:**
-- DuckDB analytics and BigQuery optimization
-- ETL pipelines and data ingestion
-- Structured and unstructured data processing
-- REST APIs, OAuth, and webhook integrations
-- MCP Toolbox for database orchestration
-
-**Backend Development & Automation:**
-- Python (production-grade), Node.js, TypeScript
-- FastAPI and automation frameworks
-- Backend integration and CI/CD pipelines
-- Cron orchestration and scheduled workflows
+**Backend & Delivery:**
+- Python, FastAPI, and TypeScript
+- CI/CD and reproducible releases
 - Structured logging and observability
+
+---
+
+## Selected Systems
+
+- **[Atlas.WM v4.0.1](https://github.com/cesaremcasa/Atlas.WM/releases/tag/v4.0.1)** · [CI](https://github.com/cesaremcasa/Atlas.WM/actions/runs/32185056194) — Research baseline; limitations documented.
+- **[Real-Time Fraud v0.1.0](https://github.com/cesaremcasa/Real-Time-Fraud-Detection-with-Deep-Learning/releases/tag/v0.1.0)** · [CI](https://github.com/cesaremcasa/Real-Time-Fraud-Detection-with-Deep-Learning/actions/runs/32202647887) — Replay protection is single-instance.
+- **[Hyperion Architecture](https://github.com/cesaremcasa/hyperion-architecture)** — Private runtime v0.4.0 deployed and health-validated on existing Hetzner; public Cloudflare route intentionally not configured.
+- **[OSS Sentinel v0.2.0](https://github.com/cesaremcasa/OSS-Sentinel/releases/tag/v0.2.0)** · [CI](https://github.com/cesaremcasa/OSS-Sentinel/actions/runs/32242338407) — Historical scores removed pending regeneration.
+- **[My Orlando v0.3.0](https://github.com/cesaremcasa/My-Orlando-Experience/releases/tag/v0.3.0)** · [CI](https://github.com/cesaremcasa/My-Orlando-Experience/actions/runs/32261158050) — Grounding is evidence gating, not an independent truth guarantee.
+- **[Winter Garden Legal RAG v0.1.0](https://github.com/cesaremcasa/Winter-Garden-Legal-RAG/releases/tag/v0.1.0)** · [CI](https://github.com/cesaremcasa/Winter-Garden-Legal-RAG/actions/runs/32255578986) — Synthetic CC0 fixture, not legal advice.
 
 ---
 
@@ -108,4 +95,4 @@ Portuguese (Native) • English (Fluent) • Spanish (Advanced) • French (Adva
 
 ---
 
-**Philosophy:** I focus on clarity, grounded engineering, and reproducible pipelines. Real-time RAG infrastructures, multi-step reasoning systems, and measurable ROI through autonomous orchestration.
+**Philosophy:** I focus on clarity, reproducibility, and documented limits in AI/ML systems.
